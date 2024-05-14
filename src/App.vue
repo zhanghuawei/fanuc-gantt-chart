@@ -1,17 +1,23 @@
+<!--
+ * @Descripttion: 
+ * @version: 
+ * @Author: 华伟
+ * @Date: 2024-03-07 19:30:32
+ * @LastEditTime: 2024-05-14 11:42:51
+-->
 <template>
   <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+    <GanttChart msg="Welcome to Your Vue.js App"/>
   </div>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import GanttChart from './components/gantt-chart/index.vue'
 
 export default {
   name: 'App',
   components: {
-    HelloWorld
+    GanttChart
   }
 }
 </script>
@@ -21,8 +27,6 @@ export default {
   font-family: Avenir, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  text-align: center;
   color: #2c3e50;
-  margin-top: 60px;
 }
 </style>

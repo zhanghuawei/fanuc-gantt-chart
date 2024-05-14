@@ -2,18 +2,9 @@
 
 ## Project setup
 ```
-npm install
+备注：项目还在开发中……
 ```
 
-### Compiles and hot-reloads for development
 ```
-npm run serve
+支持vue2
 ```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).

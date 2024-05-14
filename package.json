@@ -1,7 +1,18 @@
 {
   "name": "fanuc-gantt-chart",
-  "version": "0.1.0",
-  "private": true,
+  "version": "0.1.01",
+  "description": "项目还在开发中",
+  "private": false,
+  "bugs": "https://github.com/vant-ui/vant/issues",
+  "author": "HW",
+  "license": "MIT",
+  "keywords": [
+    "ui",
+    "vue2",
+    "mobile",
+    "component",
+    "components"
+  ],
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build"
@@ -21,5 +32,11 @@
     "> 1%",
     "last 2 versions",
     "not dead"
+  ],
+  "files": [
+    "src",
+    "dist",
+    "types",
+    "README.md"
   ]
 }
