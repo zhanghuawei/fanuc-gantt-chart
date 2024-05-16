@@ -1,6 +1,6 @@
 {
   "name": "fanuc-gantt-chart",
-  "version": "0.1.01",
+  "version": "0.1.02",
   "description": "项目还在开发中",
   "private": false,
   "bugs": "https://github.com/vant-ui/vant/issues",
@@ -19,6 +19,8 @@
   },
   "dependencies": {
     "core-js": "^3.8.3",
+    "d3": "^7.9.0",
+    "dayjs": "^1.11.11",
     "vue": "^2.6.14"
   },
   "devDependencies": {
