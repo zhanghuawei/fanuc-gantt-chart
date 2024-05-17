@@ -21,6 +21,8 @@
     "core-js": "^3.8.3",
     "d3": "^7.9.0",
     "dayjs": "^1.11.11",
+    "gantt-elastic": "^1.0.12",
+    "gantt-elastic-header": "^0.1.11",
     "vue": "^2.6.14"
   },
   "devDependencies": {
