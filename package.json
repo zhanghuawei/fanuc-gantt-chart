@@ -21,6 +21,7 @@
     "core-js": "^3.8.3",
     "d3": "^7.9.0",
     "dayjs": "^1.11.11",
+    "element-ui": "^2.15.14",
     "gantt-elastic": "^1.0.12",
     "gantt-elastic-header": "^0.1.11",
     "moment": "^2.30.1",
