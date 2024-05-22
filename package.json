@@ -23,7 +23,9 @@
     "dayjs": "^1.11.11",
     "gantt-elastic": "^1.0.12",
     "gantt-elastic-header": "^0.1.11",
-    "vue": "^2.6.14"
+    "moment": "^2.30.1",
+    "vue": "^2.6.14",
+    "vue-ganttastic": "^0.9.34"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~5.0.0",
